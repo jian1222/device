@@ -15,15 +15,15 @@
     },
     {
       "username": "riview",
-      "ip": "154.18.255.34",
+      "ip": "112.215.64.62",
       "device": {
         "os": "Android",
         "browser": "Chrome",
-        "deviceType": "Desktop",
-        "userAgent": "Mozilla/5.0 (Linux; Android 11; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.179 Safari/537.36",
-        "screenResolution": "703x1600",
+        "deviceType": "Mobile",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.179 Mobile Safari/537.36",
+        "screenResolution": "452x1003",
         "language": "id",
-        "timestamp": "2025-08-10T10:20:32.324Z"
+        "timestamp": "2025-08-10T10:21:28.512Z"
       }
     }
   ]
