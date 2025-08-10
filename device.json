@@ -28,15 +28,15 @@
     },
     {
       "username": "verse",
-      "ip": "180.254.131.89",
+      "ip": "114.10.23.155",
       "device": {
         "os": "Android",
         "browser": "Chrome",
-        "deviceType": "Mobile",
-        "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36",
-        "screenResolution": "360x806",
+        "deviceType": "Desktop",
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+        "screenResolution": "600x1344",
         "language": "id-ID",
-        "timestamp": "2025-08-10T22:46:58.048Z"
+        "timestamp": "2025-08-10T22:49:20.231Z"
       }
     }
   ]
