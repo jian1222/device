@@ -38,6 +38,19 @@
         "language": "id-ID",
         "timestamp": "2025-08-10T22:49:20.231Z"
       }
+    },
+    {
+      "username": "ARUI",
+      "ip": "114.10.30.191",
+      "device": {
+        "os": "Android",
+        "browser": "Chrome",
+        "deviceType": "Mobile",
+        "userAgent": "Mozilla/5.0 (Linux; Android 8.1.0; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.179 Mobile Safari/537.36",
+        "screenResolution": "360x760",
+        "language": "en",
+        "timestamp": "2025-08-11T13:48:59.878Z"
+      }
     }
   ]
 }
