@@ -4,13 +4,13 @@
       "username": "Jian",
       "ip": "114.10.18.33",
       "device": {
-        "os": "Android",
+        "os": "Linux",
         "browser": "Chrome",
         "deviceType": "Desktop",
-        "userAgent": "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.180 Safari/537.36",
+        "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
         "screenResolution": "600x1344",
-        "language": "id",
-        "timestamp": "2025-08-11T10:46:52.666Z"
+        "language": "id-ID",
+        "timestamp": "2025-08-11T10:49:08.229Z"
       }
     },
     {
