@@ -2,15 +2,15 @@
   "devices": [
     {
       "username": "Jian",
-      "ip": "114.10.23.155",
+      "ip": "114.10.23.127",
       "device": {
-        "os": "Android",
+        "os": "Linux",
         "browser": "Chrome",
         "deviceType": "Desktop",
-        "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+        "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
         "screenResolution": "600x1344",
         "language": "id-ID",
-        "timestamp": "2025-08-10T23:40:32.011Z"
+        "timestamp": "2025-08-11T03:13:26.889Z"
       }
     },
     {
