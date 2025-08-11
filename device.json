@@ -43,13 +43,13 @@
       "username": "ARUI",
       "ip": "114.10.30.191",
       "device": {
-        "os": "Android",
+        "os": "Linux",
         "browser": "Chrome",
-        "deviceType": "Mobile",
-        "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36",
+        "deviceType": "Desktop",
+        "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
         "screenResolution": "360x760",
         "language": "id",
-        "timestamp": "2025-08-11T14:13:46.845Z"
+        "timestamp": "2025-08-11T14:20:39.051Z"
       }
     }
   ]
