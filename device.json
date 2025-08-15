@@ -64,6 +64,19 @@
         "language": "id-ID",
         "timestamp": "2025-08-15T06:07:26.591Z"
       }
+    },
+    {
+      "username": "sans",
+      "ip": "103.142.203.19",
+      "device": {
+        "os": "Android",
+        "browser": "Chrome",
+        "deviceType": "Mobile",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.181 Mobile Safari/537.36",
+        "screenResolution": "501x1108",
+        "language": "en",
+        "timestamp": "2025-08-15T09:07:07.532Z"
+      }
     }
   ]
 }
