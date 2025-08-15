@@ -59,10 +59,10 @@
         "os": "Android",
         "browser": "Chrome",
         "deviceType": "Mobile",
-        "userAgent": "Mozilla/5.0 (Linux; Android 12; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.181 Mobile Safari/537.36",
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36",
         "screenResolution": "360x806",
         "language": "id-ID",
-        "timestamp": "2025-08-15T06:02:05.483Z"
+        "timestamp": "2025-08-15T06:07:26.591Z"
       }
     }
   ]
