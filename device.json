@@ -2,7 +2,7 @@
   "devices": [
     {
       "username": "Jian",
-      "ip": "114.10.9.66",
+      "ip": "114.10.18.106",
       "device": {
         "os": "Android",
         "browser": "Chrome",
@@ -10,7 +10,7 @@
         "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
         "screenResolution": "600x1344",
         "language": "id-ID",
-        "timestamp": "2025-08-15T05:46:00.205Z"
+        "timestamp": "2025-08-15T15:35:25.565Z"
       }
     },
     {
